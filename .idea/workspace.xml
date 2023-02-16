@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72055bbb-64fc-4c31-a01c-427796a360dc" name="Changes" comment="Gabagool">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="72055bbb-64fc-4c31-a01c-427796a360dc" name="Changes" comment="Gabagool" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +47,7 @@
       <workItem from="1675312103639" duration="983000" />
       <workItem from="1675313096718" duration="202000" />
       <workItem from="1675356131700" duration="204000" />
+      <workItem from="1676516394869" duration="77000" />
     </task>
     <task id="LOCAL-00001" summary="Gabagool">
       <created>1675309436300</created>
